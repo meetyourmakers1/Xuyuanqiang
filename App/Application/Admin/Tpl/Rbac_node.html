@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>节点列表</title>
+    <link rel="stylesheet" href="__PUBLIC__/Css/public.css">
+    <link rel="stylesheet" href="__PUBLIC__/Css/node.css">
+</head>
+<body>
+    <table class="table">
+        <div id="wrap">
+            <span class="node">节点列表</span>
+            <a href="{:U('Admin/Rbac/AddNode')}" class="add-app">添加应用</a>
+            <foreach name="node" item="app">
+                <div class="app">
+                    <div>
+                            <strong>{$app.title}</strong>
+                            <span>(应用)</span>
+                            <a href="{:U('Admin/Rbac/addNode',array('pid' => $app['id'],
+                            'level' => 2))}">[添加控制器]</a>
+                            <a href="">[修改]</a>
+                            <a href="">[删除]</a>
+                    </div>
+                    <foreach name="app.child" item="action">
+                        <dl>
+                            <dt>
+                                <strong>{$action.title}</strong>
+                                <span>(控制器)</span>
+                                <a href="{:U('Admin/Rbac/addnode',array('pid' => $action['id'],
+                                'level' => 3))}">[添加方法]</a>
+                            </dt>
+                            <foreach name="action.child" item="method">
+                                <dd>
+                                    <span>{$method.title}(方法)</span>
+                                    <a href="">[修改]</a>
+                                    <a href="">[删除]</a>
+                                </dd>
+                            </foreach>
+                        </dl>
+                    </foreach>
+                </div>
+            </foreach>
+        </div>
+    </table>
+</body>
+</html>

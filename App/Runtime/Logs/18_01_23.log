@@ -1,0 +1,1237 @@
+[ 2018-01-23T00:19:38+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003391s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003608s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T00:43:11+08:00 ] 127.0.0.1 /messenger-front/get?c=uBdKp40P4k2VAibj1NtOwYib9AYW2K4lZUsvi6z1Ty6W13HpD9Atusw2gMxUD0Rx0A%2B1MBhQbyXhx6zXyj7q6zmAAIjn3Xv%2FW284jzCAd9RLUpwEpsugVQEOhxexPkQgO4mhw6FUVgowV2Hg4GXf%2BSwWLi3TmyPzfEbZCxpRU1PIPEarCeOwf3NiQ6KlnNkec1JzNfA43Ik%3D&v=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003386s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003531s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006054s ]
+NOTIC: [8] Undefined variable: group C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\App.class.php 第 102 行.
+ERR: 无法加载模块:messenger-front
+
+[ 2018-01-23T00:49:38+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004304s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004513s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T01:06:49+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003265s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003486s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002947s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T01:36:49+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002485s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002654s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006184s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T12:06:47+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004344s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004555s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:06:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003890s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004012s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:06:47+08:00 ] 127.0.0.1 /index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001928s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002197s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:28+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005142s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005414s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001648s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001776s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:28+08:00 ] 127.0.0.1 /index.php/Admin/Login/verify
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001505s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001692s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:35+08:00 ] 127.0.0.1 /index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001051s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001170s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000701s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000815s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:36+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001911s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002113s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:47+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000697s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000811s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:22:51+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000816s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000934s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:11+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000980s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001134s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:12+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000717s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000832s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:13+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001128s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001325s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:13+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000688s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000803s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000696s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:27+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000864s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001005s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:28+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000734s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:23:28+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000699s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000814s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T12:27:31+08:00 ] 127.0.0.1 /messenger-front/get?c=uBdKp40P4k2VAibj1NtOwYib9AYW2K4lZUsvi6z1Ty6W13HpD9Atusw2gMxUD0Rx0A%2B1MBhQbyXhx6zXyj7q6zmAAIjn3Xv%2FW284jzCAd9RLUpwEpsugVQEOhxexPkQgO4mhw6FUVgowV2Hg4GXf%2BSwWLi3TmyPzfEbZCxpRU1PIPEarCeOwf3NiQ6KlnNkec1JzNfA43Ik%3D&v=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001034s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001151s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+NOTIC: [8] Undefined variable: group C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\App.class.php 第 102 行.
+ERR: 无法加载模块:messenger-front
+
+[ 2018-01-23T12:36:27+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002307s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002501s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T13:06:27+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003014s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003217s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002366s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T13:26:10+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001402s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001525s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T13:56:10+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001422s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001585s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T14:26:10+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001191s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001309s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T14:27:31+08:00 ] 127.0.0.1 /messenger-front/get?c=uBdKp40P4k2VAibj1NtOwYib9AYW2K4lZUsvi6z1Ty6W13HpD9Atusw2gMxUD0Rx0A%2B1MBhQbyXhx6zXyj7q6zmAAIjn3Xv%2FW284jzCAd9RLUpwEpsugVQEOhxexPkQgO4mhw6FUVgowV2Hg4GXf%2BSwWLi3TmyPzfEbZCxpRU1PIPEarCeOwf3NiQ6KlnNkec1JzNfA43Ik%3D&v=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001032s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001096s ]
+NOTIC: [8] Undefined variable: group C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\App.class.php 第 102 行.
+ERR: 无法加载模块:messenger-front
+
+[ 2018-01-23T14:56:10+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001225s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001350s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T15:26:10+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002128s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002262s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002325s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T15:56:10+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001072s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001210s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T16:06:02+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002040s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002235s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003039s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T16:27:31+08:00 ] 127.0.0.1 /messenger-front/get?c=uBdKp40P4k2VAibj1NtOwYib9AYW2K4lZUsvi6z1Ty6W13HpD9Atusw2gMxUD0Rx0A%2B1MBhQbyXhx6zXyj7q6zmAAIjn3Xv%2FW284jzCAd9RLUpwEpsugVQEOhxexPkQgO4mhw6FUVgowV2Hg4GXf%2BSwWLi3TmyPzfEbZCxpRU1PIPEarCeOwf3NiQ6KlnNkec1JzNfA43Ik%3D&v=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001090s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001209s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+NOTIC: [8] Undefined variable: group C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\App.class.php 第 102 行.
+ERR: 无法加载模块:messenger-front
+
+[ 2018-01-23T16:36:02+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001479s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001597s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T17:06:02+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001128s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001247s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001502s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T17:19:39+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002157s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002357s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T17:49:39+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001603s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001728s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001497s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T18:19:39+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001551s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001668s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001546s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T18:27:31+08:00 ] 127.0.0.1 /messenger-front/get?c=uBdKp40P4k2VAibj1NtOwYib9AYW2K4lZUsvi6z1Ty6W13HpD9Atusw2gMxUD0Rx0A%2B1MBhQbyXhx6zXyj7q6zmAAIjn3Xv%2FW284jzCAd9RLUpwEpsugVQEOhxexPkQgO4mhw6FUVgowV2Hg4GXf%2BSwWLi3TmyPzfEbZCxpRU1PIPEarCeOwf3NiQ6KlnNkec1JzNfA43Ik%3D&v=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001888s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002009s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001691s ]
+NOTIC: [8] Undefined variable: group C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\App.class.php 第 102 行.
+ERR: 无法加载模块:messenger-front
+
+[ 2018-01-23T18:49:39+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001639s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001801s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T19:19:39+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001520s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001657s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001372s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T19:22:15+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001554s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001709s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T19:52:16+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001232s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001358s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T20:22:16+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001209s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001353s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T20:27:31+08:00 ] 127.0.0.1 /messenger-front/get?c=uBdKp40P4k2VAibj1NtOwYib9AYW2K4lZUsvi6z1Ty6W13HpD9Atusw2gMxUD0Rx0A%2B1MBhQbyXhx6zXyj7q6zmAAIjn3Xv%2FW284jzCAd9RLUpwEpsugVQEOhxexPkQgO4mhw6FUVgowV2Hg4GXf%2BSwWLi3TmyPzfEbZCxpRU1PIPEarCeOwf3NiQ6KlnNkec1JzNfA43Ik%3D&v=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001066s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001187s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+NOTIC: [8] Undefined variable: group C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\App.class.php 第 102 行.
+ERR: 无法加载模块:messenger-front
+
+[ 2018-01-23T20:52:16+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001068s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001190s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T21:22:16+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002127s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002336s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T21:46:32+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001362s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001482s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T21:56:46+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001983s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `ningbo_xuyuanqiang` [ RunTime:0.002449s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `ningbo_xuyuanqiang`  [ RunTime:0.002044s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 137 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.045536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045731s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001804s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001238s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001527s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006893s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.012366s ]
+INFO: [ view_end ] --END-- [ RunTime:0.013246s ]
+
+[ 2018-01-23T21:56:49+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006481s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006683s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T21:56:49+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002677s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002952s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T21:56:55+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009935s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010764s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T21:56:55+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003347s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004288s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:58+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005338s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005479s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:58+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001370s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001599s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:58+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001064s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001180s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:58+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001039s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001237s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:58+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001386s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001578s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:59+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002029s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002249s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:59+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000693s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000810s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:10:59+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000949s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001122s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:16+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001561s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001677s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:16+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001466s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001795s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:17+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001044s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001207s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:17+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001017s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001154s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:17+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003228s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003410s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:17+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000997s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001124s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:18+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001106s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001230s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:18+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001121s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001255s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:18+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001720s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001917s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:11:18+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001634s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001782s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:05+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002199s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002415s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:05+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001479s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001704s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:06+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004253s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004406s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001261s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001379s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:06+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001252s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001377s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001237s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001371s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:18+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001099s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001234s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:18+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001552s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001745s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:20+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004957s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005231s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:20+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000923s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001073s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:20+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000701s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000824s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:20+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000945s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001126s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:22+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000699s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000815s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:22+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001804s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:23+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001554s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001780s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:13:23+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003021s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003286s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:21+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001080s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001202s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:22+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001155s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001345s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:24+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002084s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002296s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:27+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000867s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000988s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:30+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/role
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000786s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000904s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:33+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/access/roleId/6/roleName/%E7%BD%91%E7%AB%99%E7%BC%96%E8%BE%91%E5%91%98
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000775s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:41+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/access/roleId/5/roleName/%E6%99%AE%E9%80%9A%E7%AE%A1%E7%90%86%E5%91%98
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000992s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001135s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:49+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/access/roleId/5/roleName/%E6%99%AE%E9%80%9A%E7%AE%A1%E7%90%86%E5%91%98
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000889s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001012s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:14:57+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/node
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000857s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000996s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:15:03+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/addUser
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000793s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:15:05+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/addRole
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000775s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000893s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:15:07+08:00 ] 127.0.0.1 /index.php/Admin/Rbac/addNode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000829s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:16:32+08:00 ] 127.0.0.1 /ifr_status/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001921s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002123s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002082s ]
+ERR: 无法加载模块:ifr_status
+
+[ 2018-01-23T22:25:10+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001409s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001566s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:10+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001025s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001220s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:11+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000732s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000849s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:11+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000855s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001010s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:27+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001159s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001280s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:27+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000819s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000945s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:28+08:00 ] 127.0.0.1 /Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002622s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004334s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:28+08:00 ] 127.0.0.1 /index.php/Admin/Msgmanage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004666s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004963s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+
+[ 2018-01-23T22:25:29+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `ningbo_xuyuanqiang` [ RunTime:0.000665s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Db.class.php 第 605 行.
+SQL: SELECT * FROM `ningbo_xuyuanqiang`  [ RunTime:0.000473s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Template\ThinkTemplate.class.php 第 137 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029897s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030100s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003237s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001658s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003740s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002956s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012188s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002142s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002403s ]
+
+[ 2018-01-23T22:27:31+08:00 ] 127.0.0.1 /messenger-front/get?c=uBdKp40P4k2VAibj1NtOwYib9AYW2K4lZUsvi6z1Ty6W13HpD9Atusw2gMxUD0Rx0A%2B1MBhQbyXhx6zXyj7q6zmAAIjn3Xv%2FW284jzCAd9RLUpwEpsugVQEOhxexPkQgO4mhw6FUVgowV2Hg4GXf%2BSwWLi3TmyPzfEbZCxpRU1PIPEarCeOwf3NiQ6KlnNkec1JzNfA43Ik%3D&v=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001070s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001190s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\Dispatcher.class.php 第 132 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+NOTIC: [8] Undefined variable: group C:\wamp64\www\xuyuan\ThinkPHP\Lib\Core\App.class.php 第 102 行.
+ERR: 无法加载模块:messenger-front
+

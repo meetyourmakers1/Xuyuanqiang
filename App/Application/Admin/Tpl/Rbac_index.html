@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户列表</title>
+    <link rel="stylesheet" href="__PUBLIC__/Css/public.css">
+</head>
+<body>
+    <table class="table">
+        <tr>
+            <th colspan="7" align="left">用户列表</th>
+        </tr>
+        <tr>
+            <th>用户ID</th>
+            <th>用户名称</th>
+            <th>上次登陆时间</th>
+            <th>上次登陆IP</th>
+            <th>锁定状态</th>
+            <th>所属角色</th>
+            <th>操作</th>
+        </tr>
+        <foreach name="user" item="v">
+            <tr align="center">
+                <td>{$v.id}</td>
+                <td>{$v.username}</td>
+                <td>{$v.logintime|date='y-m-d H:i',###}</td>
+                <td>{$v.loginip}</td>
+                <td>
+                    <if condition="$v['lock']">
+                        锁定
+                    <else/>
+                        未锁定
+                    </if>
+                </td>
+                <td>
+                    <if condition="$v['username'] == C('RBAC_SUPERADMIN')">
+                        超级管理员
+                    <else/>
+                        <foreach name="v.role" item="role">
+                            <ul>
+                                <li>{$role.remark}</li>
+                            </ul>
+                        </foreach>
+                    </if>
+                </td>
+                <td>
+                    <a href="">锁定</a>
+                </td>
+            </tr>
+        </foreach>
+    </table>
+</body>
+</html>
